@@ -18,16 +18,6 @@ Requirements
 - Windows (PowerShell examples below)
 - Streamlit
 
-Install and run:
-
-```powershell
-cd "c:\Abhinay\Code\Streamlit\ChatBot\Streamlit-ChatBot"
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt    # or: pip install streamlit requests python-dotenv
-streamlit run app.py
-```
-
 Open the URL Streamlit prints (usually http://localhost:8501).
 
 ## Project layout
